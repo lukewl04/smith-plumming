@@ -6,10 +6,10 @@ export const business = {
   tagline: 'Fast, friendly plumbing and heating you can trust.',
   intro:
     'Family-run local plumbers. Fixed quotes, tidy work and a 12-month guarantee on every job.',
-  phone: '07123 456789',
-  phoneLink: '07123456789',
+  phone: '07453394350',
+  phoneLink: '07453394350',
   email: 'hello@smithandsonsplumbing.example',
-  area: 'Manchester & surrounding areas',
+  area: 'Glasgow & surrounding areas',
   hours: 'Mon-Sat 7am-7pm · Emergency callouts 24/7',
   accent: '#0ea5e9', // main brand colour
 
@@ -41,5 +41,5 @@ export const business = {
     { name: 'Priya K.', text: 'Our bathroom looks incredible. Finished on time and on budget, which almost never happens!' },
   ],
 
-  areas: ['Manchester', 'Salford', 'Stockport', 'Sale', 'Altrincham', 'Bury', 'Oldham', 'Trafford'],
+  areas: ['Glasgow', 'Renfrewshire', 'Ren', 'Sale', 'Altrincham', 'Bury', 'Oldham', 'Trafford'],
 }
